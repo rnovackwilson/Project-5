@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Reece\\Documents\\CSC-140\\Project 5\\Project-5\\What day is today\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7334D38B-9C28-43CB-9F19-FEAD3D990CFE}|What day is today.vcxproj|C:\\Users\\Reece\\Documents\\CSC-140\\Project 5\\Project-5\\What day is today\\What day is today.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7334D38B-9C28-43CB-9F19-FEAD3D990CFE}|What day is today.vcxproj|solutionrelative:What day is today.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "What day is today.cpp",
+              "DocumentMoniker": "C:\\Users\\Reece\\Documents\\CSC-140\\Project 5\\Project-5\\What day is today\\What day is today.cpp",
+              "RelativeDocumentMoniker": "What day is today.cpp",
+              "ToolTip": "C:\\Users\\Reece\\Documents\\CSC-140\\Project 5\\Project-5\\What day is today\\What day is today.cpp",
+              "RelativeToolTip": "What day is today.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T00:37:12.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
